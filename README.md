@@ -13,8 +13,8 @@ Mainly tech, ideas, brainstorms and anything important.
 **My workflow looks something like this:**
 
 1. Anytime I feel like something is worth noting down, I run a command called [zet](https://github.com/vgnshiyer/.dotfiles/blob/main/.config/fish/functions/zet.fish) to open a quick note.
-2. This unnamed/unprocessed note goes to my [inbox]() directory.
-3. After [processing](), I drag them into my [zettelkasten] directory.
+2. This unnamed/unprocessed note goes to my [inbox](https://github.com/vgnshiyer/second-brain/tree/main/0-inbox) directory.
+3. After [processing](https://github.com/vgnshiyer/second-brain/tree/main/0-inbox#unprocessed-notes-go-here), I drag them into my [zettelkasten] directory.
 
 Some other commands I use are:
 
