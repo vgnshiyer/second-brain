@@ -46,6 +46,9 @@ git commit --amend -m "Updated patchset"
 git push HEAD:refs/for/master
 ```
 
+- patchset is a version of the change
+- only the latest patchset if applied to the target branch.
+
 3. Creating dependent changes: Push the series of commits in sequence. Each commit will be a separate change for review that will depend on the previous one.
 ```bash
 git push origin HEAD:refs/for/master
@@ -89,8 +92,13 @@ git push origin HEAD:refs/for/master
 -2 --> shall not submit
 ```
 
-Useful link: https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough.html
+Useful link:
+- https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough.html
+- https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html
+- https://gerrit-review.googlesource.com/Documentation/intro-user.html
+
+Big difference I noticed in gerrit: It asks you to submit a review in each branch, for each commit. Whereas in github, you cam directly push to a branch.
 
 ## 🔗 Links
 
-- [[]]
+- [[Road to principal engineer]]
