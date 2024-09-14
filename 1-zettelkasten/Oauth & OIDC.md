@@ -38,3 +38,4 @@ Created on 2024-06-15_07-53-02
 ## 🔗 Links
 
 - [[Road to principal engineer]]
+- [[Tech]]

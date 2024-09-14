@@ -188,4 +188,4 @@ test allow_admin {
 
 ## 🔗 Links
 
-- [[]]
+- [[Tech]]

@@ -2,6 +2,13 @@ Created on 2024-06-29_21-00-57
 
 ## 📔 Notes
 
+### 4 levels of communication
+1. cliches
+2. facts
+3. feelings
+4. empathy
+
+Most presentations are at cliches and facts. The best ones are at feelings and empathy.
 ### Tips for a better presentation
 
 - passion is contagious

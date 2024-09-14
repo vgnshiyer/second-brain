@@ -7,6 +7,8 @@ Created on 2024-06-02_07-46-52
 - Do not hesitate to ask questions.
 - Don't rabbit hole to understand the codebase. Just focus on completing as many tasks at hand as possible.
 - *Aim to merge you first code by end of week 1*
+	- This is rarely ever possible (I got my access on the third day of the week) 
+	- I don't know what you have to do to justify that you can actually merge some code right in your first week.
 
 ### Manager relationship
 - Aim to have 1:1 meeting with them, ideally at a weekly spell.
