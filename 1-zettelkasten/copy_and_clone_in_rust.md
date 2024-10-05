@@ -30,4 +30,4 @@ let y = x.clone(); // explicit duplication
 
 ## 🔗 Links
 
-- [[]]
+- [[Tech]]
